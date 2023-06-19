@@ -18,8 +18,8 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-        MainMenuWindow w;
-        w.show();
+//        MainMenuWindow w;
+//        w.show();
 //    ChessBoard chessBoard;
 //    chessBoard.show();
     ChooseMainWindow choose;
