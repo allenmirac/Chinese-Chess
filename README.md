@@ -1,4 +1,5 @@
 # Chinese-Chess
+
 中国象棋初版
 
 实现了单人双方对战、人对战电脑、开两个客户端联机对战
@@ -14,6 +15,12 @@
  *          别人笑我忒疯癫，我笑自己命太贱；
  *          不见满街漂亮妹，哪个归得程序员？
 ```
+
+## 运行环境
+
+C:\Users\userName> qmake --version
+QMake version 3.1
+Using Qt version 5.14.2
 
 ## 界面展示
 
